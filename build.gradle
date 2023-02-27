@@ -50,7 +50,7 @@ apply plugin: 'application'
 
 dependencies {
   api group: 'net.rossonet.commons', name: 'rossonet-helper', version: '0.3.1'
-  api group: 'org.json', name: 'json', version: '20211205'
+  api group: 'org.json', name: 'json', version: '20230227'
   // OPC DA
   api group: 'org.bouncycastle', name: 'bcpkix-jdk15on', version: '1.69'
   api group: 'javax.servlet', name: 'javax.servlet-api', version: '4.0.1'
